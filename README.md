@@ -25,3 +25,39 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Premium Sports",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium44/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Premium Sports",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium45/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN Argentina" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Premium Sports",ESPN Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium81/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="ESPN 2 Argentina" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Premium Sports",ESPN 2 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium82/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-name="ESPN 3 Argentina" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Premium Sports",ESPN 3 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium83/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Premium Sports",ESPN Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium375/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="Premium Sports",ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium387/index.m3u8|Origin=https://weblivehdplay.ru/
